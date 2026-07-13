@@ -1,4 +1,4 @@
-INTERN ID :CITS6379
+# INTERN ID :CITS6379
 
 # 📊 Customer Churn Prediction using SQL, Python & Machine Learning
 
@@ -12,7 +12,8 @@ The project follows an end-to-end analytics workflow:
 
 **Data Cleaning → SQL Analysis → Exploratory Data Analysis → Machine Learning → Dashboard Visualization → Business Insights**
 
-DATASET LINK:https://www.kaggle.com/datasets/blastchar/telco-customer-churn?utm_source=chatgpt.com
+# DATASET LINK:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn?utm_source=chatgpt.com
 
 ---
 
